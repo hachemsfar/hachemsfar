@@ -1,14 +1,14 @@
 
 
 <p align="center">
-    💡 Computer science Msc <a href="https://www.uni-passau.de/en/">@Passau university</a> | Computer science Engineer <a href="http://www.supcom.mincom.tn/Fr/accueil_46_3">@SUPCOM</a> | Bachelor's degree in Mathematics <a href="https://ipeiem.rnu.tn/">@IPEIEM </a>
+    🎯 Computer science Msc <a href="https://www.uni-passau.de/en/">@Passau university</a> | Computer science Engineer <a href="http://www.supcom.mincom.tn/Fr/accueil_46_3">@SUPCOM</a> | Bachelor's degree in Mathematics <a href="https://ipeiem.rnu.tn/">@IPEIEM </a>
 </p>
 
 <p align="center">
-🎯 Working on: Data Engineer <a href="https://init-software.de/"> @INIT gmbh </a> |  ML Freelancer <a href="https://www.socialmediaguys.de/">@SMG</a> | IA Mentor <a href="https://techlabs.org/"> @Techlabs </a> | Data science Teacher  <a href="https://www.redi-school.org/"> @Redi School </a> </p> 
+🔭 Working on: Data Engineer <a href="https://init-software.de/"> @INIT gmbh </a> |  ML Freelancer <a href="https://www.socialmediaguys.de/">@SMG</a> | IA Mentor <a href="https://techlabs.org/"> @Techlabs </a> | Data science Teacher  <a href="https://www.redi-school.org/"> @Redi School </a> </p> 
 
 <p align="center">
-- 💡 🎯 I am passionate about working on datascience/engineering projects.
+- 💡 I am passionate about working on datascience/engineering projects.
  
 </p>
 
