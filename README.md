@@ -26,6 +26,10 @@
 </p>
 
 ## 💬 Latest Articles/ News:
+ -  [Deploying Machine Learning models with Streamlit, FastAPI and Docker](https://rihab-feki.medium.com/deploying-machine-learning-models-with-streamlit-fastapi-and-docker-bb16bbf8eb91?source=rss-483e1585b091------2)
+ - [NGSI-LD: The standard interface to your IT solutions based on the Smart Data models](https://rihab-feki.medium.com/all-you-need-to-know-to-create-your-own-ngsi-ld-data-model-e234b7ca3d22?source=rss-483e1585b091------2)
+ - [All you need to know about Docker, Docker-Compose and Dockerfile.](https://rihab-feki.medium.com/all-you-need-to-know-about-docker-docker-compose-and-dockerfile-8f0439af507e?source=rss-483e1585b091------2)<!-- BLOG-POST-LIST:END -->
+ - [nlpUP at SemEval-2019 Task 6: A Deep Neural Language Model for Offensive Language Detections](https://aclanthology.org/S19-2127/)
 
 ## ⚡ Technologies I use 
 
