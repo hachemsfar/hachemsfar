@@ -4,7 +4,7 @@
 
 
 <p align="center">
-🎯 
+🎯 Data Engineer <a href="https://init-software.de/"> @INIT Software gmbh </a> | <a href="https://www.socialmediaguys.de/"> ML Freelancer @SMG gmbh </a> | <IA Mentor @Techlabs | Data science Teacher @Redi School
 </p>
 
 <p align="center">
@@ -13,6 +13,10 @@
 
 <p align="center">
 🦋 
+</p>
+
+<p align="center">
+- 📫 hachemsfar@gmail.com | hachem.sfar@supcom.tn
 </p>
 
 ## ⚡  Technologies I use 
