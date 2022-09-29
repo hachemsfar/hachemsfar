@@ -11,7 +11,7 @@
 </p>
 
 <p align="center">
-- 📫 hachemsfar@gmail.com | hachem.sfar@supcom.tn <a target="_blank" href="https://www.linkedin.com/in/hachemsfar/"><img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="32px" height="32px" /></a>
+- 📫 To reach me: hachemsfar@gmail.com | hachem.sfar@supcom.tn <a target="_blank" href="https://www.linkedin.com/in/hachemsfar/"><img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="16px" height="16px" /></a>
 
 </p>
 
