@@ -15,7 +15,14 @@
 
 </p>
 
-## ⚡  Technologies I use 
+
+<p align="center">
+- 🌱 Learning about: R Language | React | Deutsch
+</p> 
+
+## 💬 Latest Articles/ News:
+
+## ⚡ Technologies I use 
 
 <br>
 
