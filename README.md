@@ -4,7 +4,7 @@
 
 
 <p align="center">
-🎯 Data Engineer <a href="https://init-software.de/"> @INIT Software gmbh </a> | <a href="https://www.socialmediaguys.de/"> ML Freelancer @SMG gmbh </a> | <IA Mentor @Techlabs | Data science Teacher @Redi School
+🎯 Data Engineer <a href="https://init-software.de/"> @INIT Software gmbh </a> | <a href="https://www.socialmediaguys.de/"> ML Freelancer @SMG gmbh </a> | <a href="https://techlabs.org/"> IA Mentor @Techlabs </a> | <a href="https://www.redi-school.org/"> Data science Teacher @Redi School </a>
 </p>
 
 <p align="center">
