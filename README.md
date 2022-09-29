@@ -2,7 +2,7 @@
 </p>
 
 <p align="center">
-🎯 Data Engineer <a href="https://init-software.de/"> @INIT Software gmbh </a> |  ML Freelancer <a href="https://www.socialmediaguys.de/">@SMG gmbh </a> | IA Mentor <a href="https://techlabs.org/"> @Techlabs </a> | Data science Teacher  <a href="https://www.redi-school.org/"> @Redi School </a> <a target="_blank" href="https://www.linkedin.com/in/hachemsfar/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a> </p> 
+🎯 Data Engineer <a href="https://init-software.de/"> @INIT Software gmbh </a> |  ML Freelancer <a href="https://www.socialmediaguys.de/">@SMG gmbh </a> | IA Mentor <a href="https://techlabs.org/"> @Techlabs </a> | Data science Teacher  <a href="https://www.redi-school.org/"> @Redi School </a> </p> 
 
 <p align="center">
 💡 
