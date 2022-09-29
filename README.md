@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Hachem</h1>
-<h3 align="center">Data scientist/Engineer from Tunisia <img src="https://njq-ip.com/wp-content/uploads/2014/256/Tunisia-Flag.png" width="16px" height="16px"/></h3>
+<h3 align="center">Data scientist/Engineer from Tunisia <img src="https://njq-ip.com/wp-content/uploads/2014/256/Tunisia-Flag.png" width="32px" height="32px"/></h3>
 
 
 <p align="center">
