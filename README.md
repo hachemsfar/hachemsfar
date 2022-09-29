@@ -1,3 +1,52 @@
+<h1 align="center">Hi 👋, I'm Hachem</h1>
+<h3 align="center">Data scientist/Engineer from Tunisia</h3>
+
+
+
+
+
+
+<h1 align="center">Hi 👋, I'm Hachem</h1>
+<h3 align="center">A passionate da from India</h3>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=hachemsfar&label=Profile%20views&color=0e75b6&style=flat" alt="hachemsfar" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hachemsfar" alt="hachemsfar" /></a> </p>
+
+<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/sfarhachem" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sfarhachem" height="30" width="40" /></a>
+<a href="https://kaggle.com/hachemsfar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="hachemsfar" height="30" width="40" /></a>
+<a href="https://fb.com/sfarhachem" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="sfarhachem" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/hachem_sfar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="hachem_sfar" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://kafka.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="kafka" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.scala-lang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scala/scala-original.svg" alt="scala" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> </p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hachemsfar&show_icons=true&locale=en&layout=compact" alt="hachemsfar" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hachemsfar&show_icons=true&locale=en" alt="hachemsfar" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hachemsfar&" alt="hachemsfar" /></p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 <p align="center">
@@ -14,6 +63,14 @@
 
 <p align="center">
 - 📫 To reach me: hachemsfar@gmail.com | hachem.sfar@supcom.tn <a target="_blank" href="https://www.linkedin.com/in/hachemsfar/"><img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="16px" height="16px" /></a>
+</p>
+
+<p align="center">
+- 👨‍💻 My projects are available: <a href="https://github.com/hachemsfar"> Github </a> |  <a href="https://www.kaggle.com/hachemsfar"> kaggle </a>
+</p>
+
+<p align="center">
+- 📄 My resume is availables: <a href="https://github.com/hachemsfar"> Resume </a> |  <a href="https://www.kaggle.com/hachemsfar"> Resume Slides </a> | <a href="https://www.kaggle.com/hachemsfar"> my website </a> 
 </p>
 
 
