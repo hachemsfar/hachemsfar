@@ -36,7 +36,9 @@
 </p>
 
 ## 💬 Latest Articles/ News:
+  - [My SAP Meet & Code workshop: Tun'E Up your ML Dashboard](https://meet-and-code.org/de/de/event-show/8436)
  -  [Alzheimer’s disease prediction using deep neural networks](https://techlabs-aachen.medium.com/alzheimers-disease-prediction-using-deep-neural-networks-123ce34aa86c)
+  - [My SAP Meet & Code workshop: Tun'E Up Your Report](https://www.meet-and-code.org/de/de/event-show/6748)
  - [nlpUP at SemEval-2019 Task 6: A Deep Neural Language Model for Offensive Language Detections](https://aclanthology.org/S19-2127/)
  - [Learn Web Scraping in Python with BeautifulSoup Library](https://www.udemy.com/course/web-scraping-python-bs/)
 ##  Technologies I use 
