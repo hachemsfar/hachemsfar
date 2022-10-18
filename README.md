@@ -39,7 +39,8 @@
   - [My SAP Meet & Code workshop: Tun'E Up your ML Dashboard](https://meet-and-code.org/de/de/event-show/8436)
    - [Google Developer Student Clubs:Machine Learning Workshop](https://gdsc.community.dev/events/details/developer-student-clubs-south-mediterranean-university-presents-python-in-machine-learning/)
  -  [Alzheimer’s disease prediction using deep neural networks](https://techlabs-aachen.medium.com/alzheimers-disease-prediction-using-deep-neural-networks-123ce34aa86c)
-  - [My SAP Meet & Code workshop: Tun'E Up Your Report](https://www.meet-and-code.org/de/de/event-show/6748)
+ - [My SAP Meet & Code workshop: Tun'E Up Your Report](https://www.meet-and-code.org/de/de/event-show/6748)
+ - [Mit einer Tasche um die Welt](https://www.uni-passau.de/internationales/nach-passau-kommen/aktuelles/meldung/mit-einer-tasche-um-die-welt)
  - [nlpUP at SemEval-2019 Task 6: A Deep Neural Language Model for Offensive Language Detections](https://aclanthology.org/S19-2127/)
  - [Learn Web Scraping in Python with BeautifulSoup Library](https://www.udemy.com/course/web-scraping-python-bs/)
 
