@@ -43,6 +43,7 @@
  - [All You Can Do: Mit einer Tasche um die Welt](https://www.uni-passau.de/internationales/nach-passau-kommen/aktuelles/meldung/mit-einer-tasche-um-die-welt)
  - [nlpUP at SemEval-2019 Task 6: A Deep Neural Language Model for Offensive Language Detections](https://aclanthology.org/S19-2127/)
  - [Learn Web Scraping in Python with BeautifulSoup Library](https://www.udemy.com/course/web-scraping-python-bs/)
+ - [Draw a smile :)](https://www.youtube.com/watch?v=vyAyXIC57O8)
 
 
 ## ⚡ Languages and Tools:
