@@ -23,7 +23,7 @@
 </p>
 
 <p align="center">
-- 📄 My resume is availables: <a href="https://github.com/hachemsfar/hachemsfar.github.io/blob/master/Hachem%20SFAR_Resume.pdf"> Resume </a> |  <a href="https://github.com/hachemsfar/hachemsfar.github.io/blob/master/Hachem%20SFAR_Resume_Slides.pdf"> Resume Slides </a> | <a href="https://hachemsfar.github.io/"> my website </a> 
+- 📄 My resume is availables: <a href="https://github.com/hachemsfar/hachemsfar.github.io/blob/master/Hachem%20SFAR_Resume.pdf"> Resume </a> |  <a href="https://github.com/hachemsfar/hachemsfar.github.io/blob/master/Hachem%20SFAR_Resume_Slides.pdf"> Resume Slides </a> | <a href="https://hachemsfar.github.io/"> my website </a> | <a href="https://github.com/hachemsfar/hachemsfar.github.io/tree/master/My%20Certifications"> my certifications </a>
 </p>
 
 
