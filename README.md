@@ -36,6 +36,7 @@
 </p>
 
 ## 💬 Latest Articles/ News:
+  - [IA Hackathon: First Prize Winner](https://www.csneovias.com/hackathon)
   - [My SAP Meet & Code workshop: Tun'E Up your ML Dashboard](https://meet-and-code.org/de/de/event-show/8436)
    - [Google Developer Student Clubs:Machine Learning Workshop](https://gdsc.community.dev/events/details/developer-student-clubs-south-mediterranean-university-presents-python-in-machine-learning/)
  -  [Alzheimer’s disease prediction using deep neural networks](https://techlabs-aachen.medium.com/alzheimers-disease-prediction-using-deep-neural-networks-123ce34aa86c)
