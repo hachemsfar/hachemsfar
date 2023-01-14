@@ -19,11 +19,11 @@
 </p>
 
 <p align="center">
-- 👨‍💻 My projects are available: <a href="https://github.com/hachemsfar"> Github </a> |  <a href="https://www.kaggle.com/hachemsfar"> kaggle </a>
+- 👨‍💻 My projects are available: <a href="https://github.com/hachemsfar?tab=repositories"> Github </a> |  <a href="https://www.kaggle.com/hachemsfar"> kaggle </a>
 </p>
 
 <p align="center">
-- 📄 My resume is availables: <a href="https://github.com/hachemsfar/hachemsfar.github.io/blob/master/Hachem%20SFAR_Resume.pdf"> Resume </a> |  <a href="https://github.com/hachemsfar/hachemsfar.github.io/blob/master/Hachem%20SFAR_Resume_Slides.pdf"> Resume Slides </a> | <a href="https://hachemsfar.github.io/"> my website </a> | <a href="https://github.com/hachemsfar/hachemsfar.github.io/tree/master/My%20Certifications"> my certifications </a>
+- 📄 My resume is available: <a href="https://github.com/hachemsfar/hachemsfar.github.io/blob/master/Hachem%20SFAR_Resume.pdf"> Resume </a> |  <a href="https://github.com/hachemsfar/hachemsfar.github.io/blob/master/Hachem%20SFAR_Resume_Slides.pdf"> Resume Slides </a> | <a href="https://hachemsfar.github.io/"> my website </a> | <a href="https://github.com/hachemsfar/hachemsfar.github.io/tree/master/My%20Certifications"> my certifications </a>
 </p>
 
 
