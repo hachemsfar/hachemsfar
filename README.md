@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-🔭 Working on: Data Engineer <a href="https://init-software.de/"> @INIT gmbh </a> |  ML Freelancer <a href="https://www.socialmediaguys.de/">@SMG</a> | IA Mentor <a href="https://techlabs.org/"> @Techlabs </a> | Data science Teacher  <a href="https://www.redi-school.org/"> @Redi School </a> </p> 
+🔭 Working on: Data Engineer <a href="https://init-software.de/"> @INIT gmbh </a> | IA Mentor <a href="https://techlabs.org/"> @Techlabs </a> | Data science Teacher  <a href="https://www.redi-school.org/"> @Redi School </a> </p> 
 
 <p align="center">
 - 💡 I am passionate about working on datascience/engineering projects.
