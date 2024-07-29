@@ -36,6 +36,7 @@
 </p>
 
 ## 💬 Latest Articles/ News:
+  - [Visa Hackathon](https://visaclimatetechhackathon2024-platform.bemyapp.com/#/projects/6655ea6ee7780ab3f7bfd680)
   - [Siemens Hackathon: First Prize Winner](https://www.linkedin.com/posts/yzi_sustainability-climateresiliency-techforsustainability-ugcPost-7174052186316787713-LRGm/)
   - [IA Hackathon: First Prize Winner](https://www.csneovias.com/hackathon)
   - [My SAP Meet & Code workshop: Tun'E Up your ML Dashboard](https://meet-and-code.org/de/de/event-show/8436)
